@@ -1,4 +1,4 @@
-# Fifa Dataset
+# FIFA Dataset
 
 ## Project Overview:
 
@@ -59,12 +59,17 @@ Correlate ranking data with match performance to understand key success factors 
 
 -Average attendance Over time: 45693.3744813278
 
-### Times a Particular country is winner, First runner up or  Second Runner up
+### 1. Times a Particular country is Winner, First runner up or  Second Runner up
 
+#### WINNERS
 
+![Number of times a Country won Fifa World Cup](https://github.com/user-attachments/assets/dab8997d-ea22-4a0a-8753-b6c883c33270)
 
+#### FIRST RUNNER UP AND SECOND RUNNER UP
 
-### CONCLUSIONS
+![First Runner Up', 'Second Runner Up](https://github.com/user-attachments/assets/837e4496-ed4e-4ddc-88e6-3f218db00947)
+
+### CONCLUSION
 
 Brazil won the most number of titles followed by Italy and Argentina.
 
@@ -73,9 +78,9 @@ Argentina , Netherland and West Germany won Most number of Runner up title.
 Germany was Second runnner up for most of the times.
 
 
-### In which Year a Particular Team Participated.
+### 2. In which Year a Particular Team Participated.
 
-
+![Team Participation Over Years](https://github.com/user-attachments/assets/b4b969fd-cf0c-4d46-b8d8-dd81d31b633e)
 
 
 ### OBSERVATIONS
@@ -87,12 +92,14 @@ Countries are Qatar , Canada , Wales are new to the tournament.
 Countires like Cuba, Israel , Kuwait , jamaica, Ukrain , Tongo etc. participated in only 1 edition of FIFA.
 
 
-### ADVANCE EDA and CONCLUSIONS
 
+## ADVANCE EDA and CONCLUSIONS
 
-### PROBABILITY OF A TEAM WINNING KNOCKOUT MATCHES
+### 1. PROBABILITY OF A TEAM WINNING KNOCKOUT MATCHES
 
-### CONCLUSIONS
+![PROBABILITY OF A TEAM WINNING KNOCKOUT MATCHES](https://github.com/user-attachments/assets/2a5a3b91-07ab-4bd4-9b33-d37b456bc1b5)
+
+### CONCLUSION
 
 Italy: Teams facing Italy in knockout rounds can expect a challenging match. Italy has a 75% probability of winning in the quarter-finals, an 86% probability of advancing from the semi-finals, and a 67% probability of securing victory in the finals.
 
@@ -104,7 +111,9 @@ Sweden never reaches a final.
 
 if Argentina reaches semi final , it will surely win it.
 
-### CHECKING PLAYING STRATEGY OF TEAMS IN KNOCKOUT V/S NON-KNOCKOUT MATCHES
+### 2. CHECKING PLAYING STRATEGY OF TEAMS IN KNOCKOUT V/S NON-KNOCKOUT MATCHES
+
+![Goals Scored by Teams Across Match Phases](https://github.com/user-attachments/assets/f9ced091-07df-423a-b438-e04a1a237dca)
 
 ### CONCLUSION
 Generally teams play more agressive in 2nd half as compared to first half be it knockout or non- knockout tournaments.
@@ -117,9 +126,11 @@ Spain have very different strategy they place with almost equal agression in non
 
 Canada never reached a knowckout stage , and even in non knockout stages they never scored a goal in second half. This can be their scope of improvement area , as they not scoring in the second half may be the reason they never made it to knockouts.
 
-### DOES SUBSTITUTION TURNS OUT TO BE FRUITFULL  OR NOT FOR THE TEAM.
+### 3. DOES SUBSTITUTION TURNS OUT TO BE FRUITFULL  OR NOT FOR THE TEAM.
 
-### CONCLUSIONS
+![Goals Scored by Substituted Player](https://github.com/user-attachments/assets/f3afe7ce-66d2-4bcf-a754-a44495ad4ea5)
+
+### CONCLUSION
 No Team substituted player scored goal in FIFA.
 
 Teams like France , Argentina , Portugal , Australia , Germany , Spain , Netherland have very high or positive impact of subsutituion on overall score of the team.
@@ -128,9 +139,11 @@ Positive impact of the substituion signifies that these teams have a strong mana
 
 A team can rely on substituted player for overall improvement of score but not for the goals to be scored by substituted player.
 
-### Team expected Performance and Actual Performance
+### 4. Team expected Performance and Actual Performance
 
-CONCLUSION.
+![Actual Goals vs  Expected Goals by Team](https://github.com/user-attachments/assets/b575c086-41d3-4679-8e54-3f4d81276f94)
+
+### CONCLUSION
 IN 2018 , Argentina Failed to take home advantages and underperformed in home games , However they over performed in non home grounds.
 
 In 2018 Russia Was the most attacking team , as they scored 60% more goals then they were expected to score , this may be due to home condition advantage as in 2018 FIFA world cup was in Russia.
