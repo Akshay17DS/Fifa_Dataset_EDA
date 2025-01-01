@@ -139,7 +139,7 @@ Positive impact of the substituion signifies that these teams have a strong mana
 
 A team can rely on substituted player for overall improvement of score but not for the goals to be scored by substituted player.
 
-### 4. Team expected Performance and Actual Performance
+### 4. TEAM EXPECTED PERFORMANCE AND ACTUAL PERFORMANCE
 
 ![Actual Goals vs  Expected Goals by Team](https://github.com/user-attachments/assets/b575c086-41d3-4679-8e54-3f4d81276f94)
 
